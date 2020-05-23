@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BT.API</name>
+    </assembly>
+    <members>
+        <member name="M:BT.API.AutoMap.MapProfile.#ctor">
+            <summary>
+            对象与对象之间的映射器
+            </summary>
+        </member>
+        <member name="M:BT.API.Controllers.CommonsControllerController.GetHistogramDataAsync">
+            <summary>
+            柱状图数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BT.API.Controllers.CommonsControllerController.GetSectorDataAsync">
+            <summary>
+            扇形图数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BT.API.Controllers.CustomersController.GetCustomerSegmentationsAsync">
+            <summary>
+            下拉框数据
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BT.API.Controllers.EmployeesController.EmployeeLoginAsync(BT.Dto.LoginDto)">
+            <summary>
+            员工登录
+            </summary>
+            <param name="loginDto">登录对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:BT.API.Controllers.EmployeesController.GetEmployeeInfoAsync">
+            <summary>
+            员工登录获取相应信息和权限
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
